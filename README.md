@@ -1,2 +1,2 @@
-# Sistema-de-Or-ament-rio
+# SistemaOrcamentario
 Sistema realizado para agilizar a criação de orçamentos
