@@ -49,16 +49,18 @@ Na guia principal, o botão de "Adicionar Insumo" irá realizar a execução da 
 ![image](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/fdeff28e-46c8-415d-8dec-060df5857117)
 
 O formulário conta com as 3 funções básicas: adição, edição e exclusão.
-![image](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/d6732463-0c1d-4cdd-acc8-105d2169e13d)
+![image](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/dad9ed0b-c5ca-41a5-b9d4-c6009d611b7f)
+
 
 
 ### Adição
 Permite que um novo serviço seja criado, de acordo com a regra de negócio para esse projeto em particular, é possível escolher 3 tipos diferentes de serviços.
 ![image](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/212fffb2-cdb0-4647-ab41-9ae86b4d5ff4)
 
-Ao escolher um deles, serão preenchidos 3 níveis + 1 sendo o insumo.
-Os campos que podem ser utilizados são uma seleção em lista (dados são puxados direto do dB) ou um novo serviço pode ser digitado no campo de tipo texto.
-O serviço irá prosseguir ao clicar no botão "avançar" apenas se não houver nenhum serviço similar ao preenchido nos campos
+Ao escolher um deles, serão preenchidos 3 níveis + 1 sendo o insumo. </br>
+Os campos que podem ser utilizados são uma seleção em lista (dados são puxados direto do dB) ou um novo serviço pode ser digitado no campo de tipo texto. </br>
+O serviço irá prosseguir ao clicar no botão "avançar" apenas se não houver nenhum serviço similar ao preenchido nos campos.
+
 ![image](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/9077049e-0a21-412f-87eb-d650e4f6f4a3)
 
 Ao clicar em avançar, uma nova área é habilitada para a inserção dos dados do serviço.
