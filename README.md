@@ -1,5 +1,5 @@
 # SistemaOrcamentario
-## Detalhes para regra de negócio por trás do projeto
+## Detalhes da Regra de Negócio por Trás do Projeto
 
 - Um serviço sempre será composto por 3 níveis + insumo obrigatóriamente.
 - A exclusão de um nível de um serviço, apenas pode ser realizada quando ele não está presente em nenhuma estrutura existente.
