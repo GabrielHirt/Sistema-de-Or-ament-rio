@@ -8,16 +8,19 @@
 
 
 ### ADIÇÃO:
-- Tentativa de cadastro existente.
+- Tentativa de cadastro existente.</br>
 ![Adição-Existente](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/cc72f95a-9a1f-4ff7-b97d-004cda8813e5) </br>
 - Tentativa de novo cadastro NÃO existente + uso de campo lista (valores do banco de dados) e campo texto (novos valores). </br>
 Também podem ser realizados cadastros com somente dados das listas ou textos novos, nos campos de tipo texto. </br>
 ![EXCEL_6ofFtLIuNv](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/01f21a01-18c6-4c92-8901-895ee362ae17) </br>
 
 - Diferenciação de liberação de campos para diferentes tipos de serviço.</br>
+![Adição-TiposdeServ](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/cda24a20-47f2-4405-9186-2c151d4e656a) </br></br>
 
 ### EDIÇÃO:
 - Edição de denominação de níveis de um serviço. </br>
+![Edição-Denominação](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/87a47fb9-9e4d-40aa-842f-2e2a5b47ca05)
+
 - Edição de valores para insumo. </br>
 - Edição de preço de venda sugerido e custo de mão de obra. </br>
 - Edição de rendimento. </br>
