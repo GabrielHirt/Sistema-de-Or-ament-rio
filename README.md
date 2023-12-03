@@ -4,13 +4,14 @@
 - Um serviço sempre será composto por 3 níveis + insumo obrigatóriamente.
 - A exclusão de um nível de um serviço, apenas pode ser realizada quando ele não está presente em nenhuma estrutura existente.
 - A inserção e edição possui limitações para a inserção de caracteres especiais.
-- 
+  
 ## Descrição do Projeto
 Sistema realizado para agilizar a criação de orçamentos, sendo suas funções: </br>
 - Cria orçamentos. </br>
 - Edita orçamentos. </br>
 - Insere, edita e exclui dados em banco Access. </br>
 - Criação de Log de modificações para toda ação executada no banco de dados Access.
+- Criação de Orçamentos Automático
 
 ## Tecnologias utilizadas
 - Linguagem de programação: VBA
