@@ -1,31 +1,34 @@
 # SistemaOrcamentario
-### Detalhes para regra de negócio por trás do projeto
+## Detalhes para regra de negócio por trás do projeto
+
 - Um serviço sempre será composto por 3 níveis + insumo obrigatóriamente.
 - A exclusão de um nível de um serviço, apenas pode ser realizada quando ele não está presente em nenhuma estrutura existente.
 - A inserção e edição possui limitações para a inserção de caracteres especiais.
--- 
+
 
 
 ### ADIÇÃO:
 - Tentativa de cadastro existente.
-![Adição-Existente](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/cc72f95a-9a1f-4ff7-b97d-004cda8813e5)
+![Adição-Existente](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/cc72f95a-9a1f-4ff7-b97d-004cda8813e5) </br>
 - Tentativa de novo cadastro NÃO existente + uso de campo lista (valores do banco de dados) e campo texto (novos valores). </br>
 Também podem ser realizados cadastros com somente dados das listas ou textos novos, nos campos de tipo texto. </br>
-- Diferenciação de liberação de campos para diferentes tipos de serviço.
+- Diferenciação de liberação de campos para diferentes tipos de serviço.</br>
 
 ### EDIÇÃO:
-- Edição de denominação de níveis de um serviço.
-- Edição de valores para insumo
-- Edição de preço de venda sugerido e custo de mão de obra.
-- Edição de 
-- Diferenciação de lbieração de botões por tipo de serviço.
+- Edição de denominação de níveis de um serviço. </br>
+- Edição de valores para insumo. </br>
+- Edição de preço de venda sugerido e custo de mão de obra. </br>
+- Edição de rendimento. </br>
+- Diferenciação de lbieração de botões por tipo de serviço. </br>
 ### EXCLUSÃO:
+- Exclusão de um nível ou insumo apenas será permitida se o item não tiver utilização para nenhum serviço existente. </br>
+- Diferenciação de liberação de botões por tipo de serviço e insumo. </br>
 
 ## Descrição do Projeto
-Sistema realizado para agilizar a criação de orçamentos, sendo suas funções:
-- Cria orçamentos
-- Edita orçamentos
-- Insere, edita e exclui dados em banco Access
+Sistema realizado para agilizar a criação de orçamentos, sendo suas funções: </br>
+- Cria orçamentos. </br>
+- Edita orçamentos. </br>
+- Insere, edita e exclui dados em banco Access. </br>
 
 ## Tecnologias utilizadas
 - VBA
