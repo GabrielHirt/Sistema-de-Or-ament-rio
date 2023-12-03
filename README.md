@@ -37,7 +37,13 @@ Todo os valores podem ser modificados ao mesmo tempo ou separadamente. </br>
 
 ### EXCLUSÃO:
 - Exclusão de um nível ou insumo apenas será permitida se o item não tiver utilização para nenhum serviço existente. </br>
+No exemplo abaixo, o nível possui serviços em que ele se insere. Logo, não é permitido a exclusão.
+![Exclusão-NãoPermitida](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/b46c9959-a277-4fd5-a328-74de728f9bc7)
+
 - Exclusão de um insumo liberada, pois não possui estrutura em que está presente. </br>
+No exemplo abaixo, foram excluídos todos níveis (estruturas que formam um serviço), assim, possibilitando a exclusão do nível por não estar presente em nenhuma estrutura.
+![Exclusão-Permitida-UsoDeEstrutura](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/9e726d57-7b4b-44da-8fb5-d658cb5de031)
+
 - Exclusão de estruturas. </br>
 - Diferenciação de liberação de botões por tipo de serviço e insumo. </br>
 
