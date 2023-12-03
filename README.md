@@ -37,6 +37,8 @@ Todo os valores podem ser modificados ao mesmo tempo ou separadamente. </br>
 
 ### EXCLUSÃO:
 - Exclusão de um nível ou insumo apenas será permitida se o item não tiver utilização para nenhum serviço existente. </br>
+- Exclusão de um insumo liberada, pois não possui estrutura em que está presente. </br>
+- Exclusão de estruturas. </br>
 - Diferenciação de liberação de botões por tipo de serviço e insumo. </br>
 
 ## Descrição do Projeto
