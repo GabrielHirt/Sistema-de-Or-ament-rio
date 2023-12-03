@@ -6,25 +6,35 @@
 - A inserção e edição possui limitações para a inserção de caracteres especiais.
 
 
-
+## Vídeos para Demonstração por Função
+Segue Gifs de demonstração das opções presentes para cada função do projeto. </br>
 ### ADIÇÃO:
 - Tentativa de cadastro existente.</br>
-![Adição-Existente](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/cc72f95a-9a1f-4ff7-b97d-004cda8813e5) </br>
+![Adição-Existente](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/cc72f95a-9a1f-4ff7-b97d-004cda8813e5) </br> </br>
 - Tentativa de novo cadastro NÃO existente + uso de campo lista (valores do banco de dados) e campo texto (novos valores). </br>
 Também podem ser realizados cadastros com somente dados das listas ou textos novos, nos campos de tipo texto. </br>
-![EXCEL_6ofFtLIuNv](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/01f21a01-18c6-4c92-8901-895ee362ae17) </br>
+![EXCEL_6ofFtLIuNv](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/01f21a01-18c6-4c92-8901-895ee362ae17) </br> </br>
 
 - Diferenciação de liberação de campos para diferentes tipos de serviço.</br>
 ![Adição-TiposdeServ](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/cda24a20-47f2-4405-9186-2c151d4e656a) </br></br>
 
 ### EDIÇÃO:
 - Edição de denominação de níveis de um serviço. </br>
-![Edição-Denominação](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/87a47fb9-9e4d-40aa-842f-2e2a5b47ca05)
+![Edição-Denominação](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/87a47fb9-9e4d-40aa-842f-2e2a5b47ca05)  </br> </br>
 
 - Edição de valores para insumo. </br>
+Todo os valores podem ser modificados ao mesmo tempo ou separadamente. </br>
+![Edição-Insumo](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/2ce306bd-e3c4-4d5f-a152-2a58dfa6cf99)  </br> </br>
+
 - Edição de preço de venda sugerido e custo de mão de obra. </br>
+![Edição-cmoepvs](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/14a965f6-e874-40ed-bdf2-51c38d3a46b2) </br> </br>
+
 - Edição de rendimento. </br>
-- Diferenciação de lbieração de botões por tipo de serviço. </br>
+![Edicao-Rendimento](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/f3bcce27-f2e2-4b40-9c9c-c2e127717aeb) </br> </br>
+
+- Diferenciação de liberação de botões por tipo de serviço. </br>
+![Edição-Tipos](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/3431faea-84d2-4f00-96d1-557f6b54000c)
+
 ### EXCLUSÃO:
 - Exclusão de um nível ou insumo apenas será permitida se o item não tiver utilização para nenhum serviço existente. </br>
 - Diferenciação de liberação de botões por tipo de serviço e insumo. </br>
