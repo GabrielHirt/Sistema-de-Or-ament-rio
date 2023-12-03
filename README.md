@@ -4,7 +4,17 @@
 - Um serviço sempre será composto por 3 níveis + insumo obrigatóriamente.
 - A exclusão de um nível de um serviço, apenas pode ser realizada quando ele não está presente em nenhuma estrutura existente.
 - A inserção e edição possui limitações para a inserção de caracteres especiais.
+- 
+## Descrição do Projeto
+Sistema realizado para agilizar a criação de orçamentos, sendo suas funções: </br>
+- Cria orçamentos. </br>
+- Edita orçamentos. </br>
+- Insere, edita e exclui dados em banco Access. </br>
+- Criação de Log de modificações para toda ação executada no banco de dados Access.
 
+## Tecnologias utilizadas
+- Linguagem de programação: VBA
+- Banco de dados: Microsoft Access
 
 ## Demonstração em Vídeo 
 Seguem Gifs de demonstração das opções presentes para cada função do projeto. </br>
@@ -51,15 +61,7 @@ No exemplo abaixo, foram excluídos todos níveis (estruturas que formam um serv
 Ao gerar uma lista, os insumos apenas serão mantidos na lista entre a navegação do nível e o botão de exclusão de estrutura. Caso contrário, uma solicitação de limpeza da lista atual será gerada. </br>
 ![Exclusão-TrocaEntreTipos](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/9d968641-9f8c-4eed-bfe8-be81df54e221) </br> </br>
   
-## Descrição do Projeto
-Sistema realizado para agilizar a criação de orçamentos, sendo suas funções: </br>
-- Cria orçamentos. </br>
-- Edita orçamentos. </br>
-- Insere, edita e exclui dados em banco Access. </br>
 
-## Tecnologias utilizadas
-- Linguagem de programação: VBA
-- Banco de dados: Microsoft Access
   
 ##  Descrição Detalhada do Projeto
 
