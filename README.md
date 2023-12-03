@@ -6,8 +6,8 @@
 - A inserção e edição possui limitações para a inserção de caracteres especiais.
 
 
-## Vídeos para Demonstração por Função
-Segue Gifs de demonstração das opções presentes para cada função do projeto. </br>
+## Demonstração em Vídeo 
+Seguem Gifs de demonstração das opções presentes para cada função do projeto. </br>
 ### ADIÇÃO:
 - Tentativa de cadastro existente.</br>
 ![Adição-Existente](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/cc72f95a-9a1f-4ff7-b97d-004cda8813e5) </br> </br>
