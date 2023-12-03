@@ -33,22 +33,23 @@ Todo os valores podem ser modificados ao mesmo tempo ou separadamente. </br>
 ![Edicao-Rendimento](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/f3bcce27-f2e2-4b40-9c9c-c2e127717aeb) </br> </br>
 
 - Diferenciação de liberação de botões por tipo de serviço. </br>
-![Edição-Tipos](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/3431faea-84d2-4f00-96d1-557f6b54000c)
+![Edição-Tipos](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/3431faea-84d2-4f00-96d1-557f6b54000c) </br> </br>
 
 ### EXCLUSÃO:
 - Exclusão de um nível ou insumo apenas será permitida se o item não tiver utilização para nenhum serviço existente. </br>
 No exemplo abaixo, o nível possui serviços em que ele se insere. Logo, não é permitido a exclusão.
-![Exclusão-NãoPermitida](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/b46c9959-a277-4fd5-a328-74de728f9bc7)
+![Exclusão-NãoPermitida](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/b46c9959-a277-4fd5-a328-74de728f9bc7) </br> </br>
 
 - Exclusão de um nível liberada, pois não possui estrutura em que está presente. </br>
 No exemplo abaixo, foram excluídos todos níveis (estruturas que formam um serviço), assim, possibilitando a exclusão do nível por não estar presente em nenhuma estrutura no banco de dados.
-![Exclusão-Permitida-UsoDeEstrutura](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/9e726d57-7b4b-44da-8fb5-d658cb5de031)
+![Exclusão-Permitida-UsoDeEstrutura](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/9e726d57-7b4b-44da-8fb5-d658cb5de031) </br> </br>
 
 - Diferenciação de liberação de botões por tipo de serviço e insumo. </br>
+![Exclusão-LimpezadeListas](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/3df632c7-bc15-4e47-a5e4-bd64fd778db5) </br> </br>
 
 - Solicitação de permissão no acesso a outros níveis ou tipos de insumo. </br>
 Ao gerar uma lista, os insumos apenas serão mantidos na lista entre a navegação do nível e o botão de exclusão de estrutura. Caso contrário, uma solicitação de limpeza da lista atual será gerada. </br>
-![Exclusão-TrocaEntreTipos](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/9d968641-9f8c-4eed-bfe8-be81df54e221)
+![Exclusão-TrocaEntreTipos](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/9d968641-9f8c-4eed-bfe8-be81df54e221) </br> </br>
   
 ## Descrição do Projeto
 Sistema realizado para agilizar a criação de orçamentos, sendo suas funções: </br>
