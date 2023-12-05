@@ -63,7 +63,7 @@ Ao gerar uma lista, os insumos apenas serão mantidos na lista entre a navegaç�
 ![Exclusão-TrocaEntreTipos](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/9d968641-9f8c-4eed-bfe8-be81df54e221) </br> </br>
   
 
-  
+<!-- 
 ##  Descrição Detalhada do Projeto
 
 O descrição do projeto apresentada será realizada em duas etapa, sendo elas as principais que componhem ele, sendo: Planilha Excel e suas guias e Formulário do projeto. 
@@ -187,3 +187,4 @@ Ao finalizar uma exclusão, a lista é atualizada e o número de estruturas com 
 ![image](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/081839b9-90c9-444e-a04e-8800e1f1153d) </br> </br>
 
 Estrutura similar é utilizada para outros tipos de serviço e para exclusão de insumo. </br>
+-->
