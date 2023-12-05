@@ -10,8 +10,8 @@ Sistema realizado para agilizar a criação de orçamentos, sendo suas funções
 - Cria orçamentos. </br>
 - Edita orçamentos. </br>
 - Insere, edita e exclui dados em banco Access. </br>
-- Criação de Log de modificações para toda ação executada no banco de dados Access.
-- Criação de Orçamentos Automático
+- Criação de log de modificações para toda ação executada no banco de dados Access por meio do formulário. </br>
+- Criação automática para novas versões de um orçamento (versionamento). </br>
 
 ## Tecnologias utilizadas
 - Linguagem de programação: VBA
@@ -56,11 +56,11 @@ No exemplo abaixo, foram excluídos todos níveis (estruturas que formam um serv
 ![Exclusão-Permitida-UsoDeEstrutura](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/9e726d57-7b4b-44da-8fb5-d658cb5de031) </br> </br>
 
 - Diferenciação de liberação de botões por tipo de serviço e insumo. </br>
-![Exclusão-LimpezadeListas](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/3df632c7-bc15-4e47-a5e4-bd64fd778db5) </br> </br>
 
+![Exclusão-TrocaEntreTipos](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/9d968641-9f8c-4eed-bfe8-be81df54e221) </br> </br>
 - Solicitação de permissão no acesso a outros níveis ou tipos de insumo. </br>
 Ao gerar uma lista, os insumos apenas serão mantidos na lista entre a navegação do nível e o botão de exclusão de estrutura. Caso contrário, uma solicitação de limpeza da lista atual será gerada. </br>
-![Exclusão-TrocaEntreTipos](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/9d968641-9f8c-4eed-bfe8-be81df54e221) </br> </br>
+![Exclusão-LimpezadeListas](https://github.com/GabrielHirt/SistemaOrcamentario/assets/98654562/3df632c7-bc15-4e47-a5e4-bd64fd778db5) </br> </br>
   
 
 <!-- 
