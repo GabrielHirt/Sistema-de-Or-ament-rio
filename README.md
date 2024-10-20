@@ -1,5 +1,5 @@
 # SistemaOrcamentario
-## Detalhes da Regra de Negócio por Trás do Projeto
+## Detalhes da Regra de Negócio por Trás do Projeto  📋
 
 - Um serviço sempre será composto por 3 níveis + insumo obrigatóriamente.
 - A exclusão de um nível de um serviço, apenas pode ser realizada quando ele não está presente em nenhuma estrutura existente.
@@ -13,11 +13,11 @@ Sistema realizado para agilizar a criação de orçamentos, sendo suas funções
 - Criação de log de modificações para toda ação executada no banco de dados Access por meio do formulário. </br>
 - Criação automática para novas versões de um orçamento (versionamento). </br>
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas 📚
 - Linguagem de programação: VBA
 - Banco de dados: Microsoft Access
 
-## Demonstração em Vídeo 
+## Demonstração ⚙️
 Seguem Gifs de demonstração das opções presentes para cada função do projeto. </br>
 ### ADIÇÃO:
 - Tentativa de cadastro existente.</br>
